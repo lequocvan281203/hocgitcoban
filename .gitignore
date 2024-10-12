@@ -1,2 +1,7 @@
 .env
 abc/*.md
+
+# Comment
+node_modules/
+.logs
+
